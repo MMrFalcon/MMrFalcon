@@ -6,7 +6,7 @@ I'm Jakub, a Full Stack Developer with a passion for building robust and scalabl
 * **Backend:** Java, Spring Boot, Hibernate, RESTful APIs
 * **Frontend:** Familiarity with HTML, CSS, Angular
 * **Hardware:** MicroPython, Raspberry Pi Pico
-* **Linux:** Comfortable navigating the Linux command line. I really enjoy using Ubuntu and Raspbian. Familarity with: Apche2, Systemd, Iptables.
+* **Linux:** Comfortable navigating the Linux command line. I really enjoy using Ubuntu and Raspbian. Familar with: Apche2, Systemd, Iptables.
 * **Docker:** To accelerate database environment creation and application containerization
 
 **Projects:**
