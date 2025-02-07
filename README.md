@@ -12,7 +12,7 @@ I'm Jakub, a Full Stack Developer with a passion for building robust and scalabl
 **Projects:**
 * [Websites Health Check](https://github.com/MMrFalcon/health-check) Necessity is the mother of invention. I had to figure out when my router needed a port forwarding reset to host a website. With this tool, I check if it returns a status != 200 and send an email to my inbox.
 * [Pico Home Hub](https://github.com/MMrFalcon/Pico-Home-Hub) Raspberry Pi Pico program for IoT, incorporating Wi-Fi, RTC, and soil moisture sensor libraries for lighting control and temperature measurement.
-* [Movies](https://github.com/MMrFalcon/movies) A quick knowledge pill on simple use cases of JpaSpecificationExecutor in building filtering and how to optimize these queries.
+* [Movies](https://github.com/MMrFalcon/movies) A quick knowledge pill on simple use cases of JpaSpecificationExecutor for building filters and optimizing queries. Includes an example of Spring Boot app metrics and log collector configuration with Grafana, Promtail, Loki, and Prometheus.
 
 ✨**Currently Exploring:**
 * Real-time IoT solutions with: Project Reactor (Spring WebFlux, Mongo DB) and Raspberry Pi Pico
